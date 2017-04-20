@@ -56,3 +56,13 @@ haxe lib dev openfl path
 display opengl  stage sprite различия
 http://help.adobe.com/ru_RU/FlashPlatform/reference/actionscript/3/flash/display/DisplayObject.html
 http://www.nestor.minsk.by/kg/2011/42/kg14208.html
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+lineto
+1) расширение прямоугольника при изменении х и у (привдение к глобальным координатом)
+---отслеживать список и проверять на правильность работы Ртри (более точную затратную проверку)
+
+изменение прям в ртри при изменении дисплей обджекта
+
+изменение координат при изменении прямоугольников
+
